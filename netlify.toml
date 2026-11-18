@@ -1,0 +1,5 @@
+# Netlify configuration.
+# No build step: Netlify serves the /public folder as-is.
+# Security and cache headers live in public/_headers so they also apply to drag-and-drop deploys.
+[build]
+  publish = "public"

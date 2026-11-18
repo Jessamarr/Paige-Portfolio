@@ -1,0 +1,381 @@
+{
+  "hero-wireframe": {
+    "widths": [
+      800,
+      1576
+    ],
+    "ratio": 0.6332,
+    "w": 1576,
+    "h": 998
+  },
+  "about-tower": {
+    "widths": [
+      480,
+      768
+    ],
+    "ratio": 1.3333,
+    "w": 768,
+    "h": 1024
+  },
+  "about-headshot": {
+    "widths": [
+      300
+    ],
+    "ratio": 1.5,
+    "w": 300,
+    "h": 450
+  },
+  "about-environment": {
+    "widths": [
+      480,
+      768
+    ],
+    "ratio": 1.3333,
+    "w": 768,
+    "h": 1024
+  },
+  "strip-barn": {
+    "widths": [
+      480,
+      768
+    ],
+    "ratio": 1.3333,
+    "w": 768,
+    "h": 1024
+  },
+  "strip-orientation": {
+    "widths": [
+      640,
+      1086
+    ],
+    "ratio": 0.6667,
+    "w": 1086,
+    "h": 724
+  },
+  "strip-gala": {
+    "widths": [
+      640,
+      1200
+    ],
+    "ratio": 0.6667,
+    "w": 2400,
+    "h": 1600
+  },
+  "strip-cheer": {
+    "widths": [
+      480,
+      900
+    ],
+    "ratio": 1.3333,
+    "w": 1800,
+    "h": 2400
+  },
+  "strip-crowd": {
+    "widths": [
+      640,
+      1086
+    ],
+    "ratio": 0.6667,
+    "w": 1086,
+    "h": 724
+  },
+  "contact-portrait": {
+    "widths": [
+      480,
+      960
+    ],
+    "ratio": 1.5,
+    "w": 1600,
+    "h": 2400
+  },
+  "drawing-courtyard": {
+    "widths": [
+      800,
+      1400,
+      2200
+    ],
+    "ratio": 0.7679,
+    "w": 2232,
+    "h": 1714
+  },
+  "drawing-bridge": {
+    "widths": [
+      800,
+      1690
+    ],
+    "ratio": 0.7479,
+    "w": 1690,
+    "h": 1264
+  },
+  "drawing-house": {
+    "widths": [
+      800,
+      1708
+    ],
+    "ratio": 0.7049,
+    "w": 1708,
+    "h": 1204
+  },
+  "parking-render": {
+    "widths": [
+      800,
+      1300
+    ],
+    "ratio": 0.6631,
+    "w": 1306,
+    "h": 866
+  },
+  "parking-board": {
+    "widths": [
+      1000,
+      1600,
+      2400
+    ],
+    "ratio": 0.6667,
+    "w": 2400,
+    "h": 1600
+  },
+  "eunoia-hero": {
+    "widths": [
+      800,
+      1670
+    ],
+    "ratio": 0.6467,
+    "w": 1670,
+    "h": 1080
+  },
+  "eunoia-concept": {
+    "widths": [
+      800,
+      1400,
+      1885
+    ],
+    "ratio": 0.5538,
+    "w": 1885,
+    "h": 1044
+  },
+  "eunoia-siteplan": {
+    "widths": [
+      800,
+      1400,
+      2200
+    ],
+    "ratio": 0.75,
+    "w": 2400,
+    "h": 1800
+  },
+  "eunoia-section": {
+    "widths": [
+      800,
+      1400,
+      2200
+    ],
+    "ratio": 0.3952,
+    "w": 2399,
+    "h": 948
+  },
+  "eunoia-sketch": {
+    "widths": [
+      800,
+      1400,
+      2200
+    ],
+    "ratio": 0.7075,
+    "w": 2400,
+    "h": 1698
+  },
+  "eunoia-render-bikes": {
+    "widths": [
+      800,
+      1600
+    ],
+    "ratio": 0.5625,
+    "w": 1920,
+    "h": 1080
+  },
+  "eunoia-render-plaza": {
+    "widths": [
+      800,
+      1600
+    ],
+    "ratio": 0.5625,
+    "w": 1920,
+    "h": 1080
+  },
+  "eunoia-poster": {
+    "widths": [
+      600,
+      1200
+    ],
+    "ratio": 1.3333,
+    "w": 1800,
+    "h": 2400
+  },
+  "backyard-hero": {
+    "widths": [
+      800,
+      1400,
+      2200
+    ],
+    "ratio": 0.5632,
+    "w": 2399,
+    "h": 1351
+  },
+  "backyard-axon": {
+    "widths": [
+      800,
+      1400,
+      1982
+    ],
+    "ratio": 0.4697,
+    "w": 1982,
+    "h": 931
+  },
+  "backyard-layers": {
+    "widths": [
+      500,
+      786
+    ],
+    "ratio": 1.3817,
+    "w": 786,
+    "h": 1086
+  },
+  "backyard-sketch": {
+    "widths": [
+      600,
+      1200
+    ],
+    "ratio": 1.3333,
+    "w": 1800,
+    "h": 2400
+  },
+  "kiin-hero": {
+    "widths": [
+      800,
+      1400,
+      1920
+    ],
+    "ratio": 0.5625,
+    "w": 1920,
+    "h": 1080
+  },
+  "kiin-aerial": {
+    "widths": [
+      800,
+      1600
+    ],
+    "ratio": 0.6067,
+    "w": 2400,
+    "h": 1456
+  },
+  "kiin-fire": {
+    "widths": [
+      800,
+      1600
+    ],
+    "ratio": 0.5625,
+    "w": 1920,
+    "h": 1080
+  },
+  "kiin-garden": {
+    "widths": [
+      800,
+      1600
+    ],
+    "ratio": 0.5625,
+    "w": 1920,
+    "h": 1080
+  },
+  "kiin-siteplan": {
+    "widths": [
+      800,
+      1400,
+      2200
+    ],
+    "ratio": 0.7082,
+    "w": 2399,
+    "h": 1699
+  },
+  "social-bike-lanes": {
+    "widths": [
+      500,
+      1000
+    ],
+    "ratio": 0.9409,
+    "w": 1624,
+    "h": 1528
+  },
+  "social-gran-fondo": {
+    "widths": [
+      500,
+      1000
+    ],
+    "ratio": 1.25,
+    "w": 1080,
+    "h": 1350
+  },
+  "infographic-play": {
+    "widths": [
+      900,
+      1500,
+      2044
+    ],
+    "ratio": 0.6458,
+    "w": 2044,
+    "h": 1320
+  },
+  "report-phase-1": {
+    "widths": [
+      600,
+      938
+    ],
+    "ratio": 1.2964,
+    "w": 938,
+    "h": 1216
+  },
+  "report-map": {
+    "widths": [
+      600,
+      1000
+    ],
+    "ratio": 1.2804,
+    "w": 1020,
+    "h": 1306
+  },
+  "report-concept-plan": {
+    "widths": [
+      600,
+      1000
+    ],
+    "ratio": 1.2908,
+    "w": 1004,
+    "h": 1296
+  },
+  "report-timeline": {
+    "widths": [
+      600,
+      1000
+    ],
+    "ratio": 1.2939,
+    "w": 1014,
+    "h": 1312
+  },
+  "report-engagement": {
+    "widths": [
+      600,
+      942
+    ],
+    "ratio": 1.293,
+    "w": 942,
+    "h": 1218
+  },
+  "report-phase-3": {
+    "widths": [
+      600,
+      1000
+    ],
+    "ratio": 1.2947,
+    "w": 1018,
+    "h": 1318
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "paige-thompson-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Paige Thompson. Static site, deploys to Netlify.",
+  "scripts": {
+    "images": "node scripts/optimize-images.mjs",
+    "dev": "npx --yes serve@14.2.4 public -l 8080"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@fontsource-variable/archivo": "^5.2.8",
+    "@fontsource-variable/manrope": "^5.2.8",
+    "sharp": "^0.34.4"
+  },
+  "private": true,
+  "type": "module"
+}
