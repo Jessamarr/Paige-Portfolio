@@ -640,7 +640,7 @@ figcaption { margin-top: 12px; font-size: 0.82rem; font-weight: 600; letter-spac
   .contact__photo img { max-width: 320px; margin-inline: auto; }
   .contact__lead { max-width: none; }
   .hero__polaroid { display: none; }
-  .hero__wire { width: 120vw; right: -30vw; bottom: -4vh; opacity: 0.55; }
+  .hero__wire { width: 120vw; right: -30vw; bottom: -4vh; opacity: 0.4; }
   .hero { align-items: flex-end; padding-bottom: 104px; }
 }
 
